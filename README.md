@@ -42,7 +42,7 @@ The dataset contains ride request information along with features such as:
 ### 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/abhinandan07-git/Ola-Bike-Ride-Request-Forecast/commits?author=abhinandan07-git
+https://github.com/abhinandan07-git/Ola-Bike-Ride-Request-Forecast.git
 
 ```
 
